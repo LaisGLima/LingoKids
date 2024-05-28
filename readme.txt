@@ -9,7 +9,7 @@ npm install firebase
 
 npm install firebase-storage
 
-npm -i expo@latest /npm install -i expo@51(precisa ser o 51)
+npm -i expo@latest /npm install -i expo@51
 
 npx expo install react-native-web react-dom @expo/metro-runtime
 
