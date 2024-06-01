@@ -5,25 +5,25 @@
 ### Atividade proposta pelo Prof.Ildo Vieira - Disciplina-Programação Para Dispositivos Móveis em Android - Estácio-Parangaba
 
 ## FIGURA 1  – BANNER
-![Estrutura Command](https://github.com/LaisGLima/Projeto_BOOKs/blob/main/BANNER_SIMPOSIO_EXTENSAO_90X120_branco-4.pdf.png)
+![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/BannerLingoKids.jpg)
 
 ## FIGURA 2  – TELA INICIAL
-![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/Tela%20de%20alimentos%20em%20portugu%C3%AAs.jpg)
+![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/Inicial.jpg)
 
 ## FIGURA 3  – TELA DE LINGUAGEM E A CONFIGURAÇÃO
-![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/tela%20de%20linguagem.jpg)
+![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/linguagem.jpg)
 
 ## FIGURA 4  – TELA DE CONFIGURAÇÃO DO CONTROLE PARENTAL
-![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/notifica%C3%A7%C3%A3o%20de%20controle%20parental.jpg)
+![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/notificacao.jpg)
 
 ## FIGURA 5  – TELA DE NOTIFICAÇÃO DO CONTROLE PARENTAL
-![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/notifica%C3%A7%C3%A3o%20de%20controle%20parental.jpg)
+![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/controleparental.jpg)
 
 ## FIGURA 6  – TELA DE CATEGORIAS
-![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/tela%20de%20categorias.jpg)
+![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/Categorias.jpg)
 
 ## FIGURA 7  – TELA DE ANIMAIS EM PORTUGUÊS
-![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/Tela%20de%20alimentos%20em%20portugu%C3%AAs.jpg)
+![Estrutura Command](https://github.com/LaisGLima/LingoKids/blob/main/imagensReadme/TelaAlimentoPT.jpg)
 
 ## Dependências
 
